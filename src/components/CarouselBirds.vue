@@ -1,8 +1,8 @@
 <template>
 
     <div>
-        <div id="carouselExample" class="carousel carousel-dark slide" data-bs-ride="carousel" style="height:500px;">
-  <div class="carousel-inner">
+        <div id="carouselExample" class="carousel carousel-dark slide" data-bs-ride="carousel">
+  <div class="carousel-inner" style="height:500px;">
     <div class="carousel-item active">
       <img src="https://codeff.cl/wp-content/uploads/2020/09/dia-aves-playeras-3.jpg" class="d-block img-fluid" alt="...">
     </div>
