@@ -1,6 +1,6 @@
 <template>
-    <div v-for="bird in data" :key="bird.id">
-        <div class="row row-cols-3 row-cols-md-3 m-auto g-4">
+    <div v-for="bird in data" :key="bird.id" class="container fluid">
+        <div class="row row-cols-md-3 m-auto g-4">
   <div class="col">
     <div class="card">
       <img :src="bird.images.main" class="card-img-top" alt="...">
